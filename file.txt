@@ -2,3 +2,5 @@
 98456
 789
 master
+branch
+--amend
