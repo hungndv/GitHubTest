@@ -6,3 +6,4 @@ branch
 --amend
 1
 Task3149RemoveSourceControlBinding
+master hot fix
